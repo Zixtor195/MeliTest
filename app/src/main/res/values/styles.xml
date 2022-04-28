@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Widgets shapes -->
+    <style name="imageView_rounded">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+
+    <!-- Font Families -->
+    <style name="RobotoBold">
+        <item name="android:fontFamily">@font/roboto_bold</item>
+    </style>
+
+    <style name="RobotoMedium">
+        <item name="android:fontFamily">@font/roboto_medium</item>
+    </style>
+
+    <style name="RobotoRegular">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+    </style>
+
+    <!-- Font Sizes -->
+    <style name="RobotoBold.Bigger" parent="RobotoBold">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="RobotoBold.Medium" parent="RobotoBold">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="RobotoBold.Small" parent="RobotoBold">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="RobotoMedium.Title" parent="RobotoMedium">
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="RobotoMedium.Bigger" parent="RobotoMedium">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="RobotoMedium.Medium" parent="RobotoMedium">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="RobotoMedium.Small" parent="RobotoMedium">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="RobotoRegular.Bigger" parent="RobotoRegular">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="RobotoRegular.Medium" parent="RobotoRegular">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="RobotoRegular.Small" parent="RobotoRegular">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+</resources>

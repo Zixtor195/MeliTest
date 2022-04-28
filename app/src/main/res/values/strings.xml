@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MeliTest</string>
+
+    <string name="search_on_meli">Buscar en Mercado Libre</string>
+    <string name="free_shipping">Envío gratis</string>
+    <string name="country_currency_symbol">$</string>
+    <string name="results_no_found">No se tienen resultados, intenta utilizar el buscador</string>
+    <string name="results_error">Ha ocurrido un error, intentalo de nuevo</string>
+</resources>
